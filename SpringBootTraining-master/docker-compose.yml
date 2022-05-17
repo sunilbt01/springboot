@@ -1,0 +1,8 @@
+version: '2'
+UI:
+    image: schellur/docker-training
+    ports:
+     - 8080:8080
+
+
+    
